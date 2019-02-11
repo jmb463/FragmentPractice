@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KillerRemote</string>
+    <string name="title">KillerGame</string>
+    <string name="ip">Direccion IP</string>
+    <string name="port">Puerto</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="enviar">Comenzar</string>
+</resources>
